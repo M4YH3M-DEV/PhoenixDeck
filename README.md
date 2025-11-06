@@ -93,9 +93,9 @@ Phoenix Deck will include tools and capabilities for security research and ethic
 
 - [x] Initial planning and repository setup
 - [x] Hardware component research and BOM finalization
-- [ ] PCB design and schematic drafting
-- [ ] ESP32 firmware architecture planning
-- [ ] 3D-printable enclosure design
+- [x] PCB design and schematic drafting
+- [x] ESP32 firmware architecture planning
+- [x] 3D-printable enclosure design
 - [ ] Alpha prototype assembly and testing
 - [ ] Beta hardware revision with improved cooling
 - [ ] Official kit sales via DevSora website
